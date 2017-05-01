@@ -1,0 +1,22 @@
+﻿  tutorial.cpp
+C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(16790): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(15358): note: while compiling class template member function 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )'
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(15237): note: see reference to function template instantiation 'unsigned int cimg_library::CImg<float>::_cimg_math_parser::compile(char *,char *,const unsigned int,unsigned int *const )' being compiled
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(24049): note: see reference to class template instantiation 'cimg_library::CImg<float>::_cimg_math_parser' being compiled
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(24038): note: while compiling class template member function 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const'
+          with
+          [
+              T=float
+          ]
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(24033): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_eval(cimg_library::CImg<float> *const ,const char *const ,const double,const double,const double,const double,const cimg_library::CImgList<T> *const ,cimg_library::CImgList<T> *const ) const' being compiled
+          with
+          [
+              T=float
+          ]
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(36186): note: see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(58970): note: see reference to class template instantiation 'cimg_library::CImg<wchar_t>' being compiled
+C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(19921): warning C4319: '~': zero extending 'unsigned int' to 'double' of greater size
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(19919): note: while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+  C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\CImg.h(16789): note: see reference to function template instantiation 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)' being compiled
+  tutorial.vcxproj -> C:\Users\Janina\Downloads\CImg_latest\CImg-2.0.0_pre042717\examples\Debug\tutorial.exe
+  tutorial.vcxproj -> C:/Users/Janina/Downloads/CImg_latest/CImg-2.0.0_pre042717/examples/Debug/tutorial.pdb (Full PDB)
